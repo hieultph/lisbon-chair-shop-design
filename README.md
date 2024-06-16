@@ -1,8 +1,8 @@
 # Lisbon Chair Shop Design Using HTML and CSS
 
-This project is a part of a web design course on Udemy by Jonas Schmedtmann.
-
 ## About This Project
+
+Hosted on Netlify: [Lisbon Chair Website](https://lisbon-chair-hieultph.netlify.app/)
 
 This project showcases a responsive design for a fictional chair shop based in Lisbon. The focus is on using modern HTML and CSS techniques to create a visually appealing and user-friendly website.
 
