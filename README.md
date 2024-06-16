@@ -6,8 +6,6 @@ Hosted on Netlify: [Lisbon Chair Website](https://lisbon-chair-hieultph.netlify.
 
 This project showcases a responsive design for a fictional chair shop based in Lisbon. The focus is on using modern HTML and CSS techniques to create a visually appealing and user-friendly website.
 
-![image](https://github.com/hieultph/lisbon-chair-shop-design/assets/136618059/111ef107-08b2-41c2-b63d-5fd1bd4bd0d9)
-
 ## How to Use This Project
 
 Follow these instructions to get started:
